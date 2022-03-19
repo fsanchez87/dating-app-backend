@@ -1,0 +1,17 @@
+{
+  "name": "dating-app-backend",
+  "version": "1.0.0",
+  "description": "The dating app backend",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Francisco Sánchez",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.3",
+    "mongoose": "^6.2.7"
+  }
+}
